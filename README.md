@@ -11,12 +11,13 @@ By no means do you need to use (or understand) everything on this comparision dr
 ## Objective
 The objective of this comparison is to provide an overview of popular AI-assisted coding tools and their key features. By exploring this comparison, developers can gain insights into the capabilities, strengths, and use cases of each tool, ultimately helping them choose the most suitable tool for their needs.
 
-![AI-Assisted Coding Tools](https://github.com/czelabueno/ai-assisted-coding/blob/master/AI-assisted-coding-tools-2023.png)
+![AI-Assisted Coding Tools](https://github.com/czelabueno/ai-assisted-coding/blob/main/AI-assisted-coding-tools-2023.png)
 
 ## Comparison Categories
 The comparison covers the following AI-assisted coding tools [updated until June 2023]:
 
 1. Github Copilot: [https://github.com/features/copilot](https://github.com/features/copilot)
+    -   Github Copilot X was not part of this evaluation due to being in preview and waiting list. When I know the release date this comparison can be updated. [https://github.com/features/preview/copilot-x](https://github.com/features/preview/copilot-x)
 2. ChatGPT: [https://chat.openai.com](https://chat.openai.com)
     - Exist a lot of community plugin free and with paid plan.
     - If you're an Azure user and want use your Azure OpenAI model these plugins can help you:
